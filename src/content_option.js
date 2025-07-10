@@ -1,4 +1,5 @@
 const logotext = "REY";
+import fotoProfilSaya from "./assets/images/fotorehan.png";
 const meta = {
   title: "Rehan Pratama Pasaribu",
   description: "Halo! Saya Rehan Pratama Pasaribu, seorang Desainer UI/UX yang siap mewujudkan ide-ide cemerlang, saat ini berkreasi di Medan, Indonesia.",
@@ -12,7 +13,7 @@ const introdata = {
     third: "Saya mengubah ide jadi visual!",
   },
   description: "Seorang Desainer UI/UX dengan semangat membara untuk menciptakan pengalaman digital yang tidak hanya fungsional, tapi juga menyenangkan dan memanjakan mata. Mari kita wujudkan desain impian Anda!",
-  your_img_url: "https://serayunews.pw/wp-content/uploads/2025/04/Don-Film-Jumbo.jpg",
+  your_img_url: fotoProfilSaya,
 };
 
 const dataabout = {
